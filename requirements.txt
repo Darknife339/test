@@ -1,0 +1,7 @@
+discord.py
+google-genai
+youtube_transcript_api
+python-docx
+PyPDF2
+flask
+aiohttp
